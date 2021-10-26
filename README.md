@@ -41,8 +41,10 @@ exit
 ```
 ## Отчеты MultiQC
 ### Для исходных чтений
-
+[Ссылка](https://htmlpreview.github.io/?https://github.com/NikitaKlichko/hse21_hw1/blob/main/multiqc.html)
 ![](imgs/quality.PNG)
 ### Для подрезанных чтений
-
+[Ссылка](https://htmlpreview.github.io/?https://github.com/NikitaKlichko/hse21_hw1/blob/main/multiqc_trimmed.html)
 ![](imgs/quality_trimmed.PNG)
+## Код в Jupyter Notebook
+[Код здесь](https://github.com/NikitaKlichko/hse21_hw1/blob/main/src/code_hw1.ipynb)
