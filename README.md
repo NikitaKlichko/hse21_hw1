@@ -39,4 +39,10 @@ time platanus gap_close -o Poil -t 4 -c Poil_scaffold.fa -IP1 trimmed_fastq/sub_
 exit
 exit
 ```
+## Отчеты MultiQC
+### Для исходных чтений
 
+![](imgs/quality.PNG)
+### Для подрезанных чтений
+
+![](imgs/quality_trimmed.PNG)
